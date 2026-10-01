@@ -8,3 +8,6 @@
 | Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
 | 01 | Módulo 1 Coddy | Fundamentos do HTM, estrutara básica, tags e etc| Aprovado | [Ver Imagem](./img/Cody.jpeg) |
+| 02 | HTML freeCodeCamp  | Fundamentos do HTM, estrutara básica, tags e etc| Em Processo | [Ver Imagem](./img/Free.png) |
+
+
